@@ -170,7 +170,7 @@ per-line, with each table separated by a blank line. Separate each
 period with line containing five hyphens. You should overwrite this file
 every run.
 
-There is a reference implementation in `/home/comp330/lab5` on
+There is a reference implementation in `/home/comp330/lab4` on
 `cslogin`. You may use this implementation to test your code against.
 
 # Requirements 

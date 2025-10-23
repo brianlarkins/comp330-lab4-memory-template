@@ -1,6 +1,6 @@
 
 /*
- * @file lab5.c - Lab 5 Virtual Memory Replacement Simulator
+ * @file lab4.c - Lab 4 Virtual Memory Replacement Simulator
  * @author your name (c) 2019
  */
 

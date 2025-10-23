@@ -1,5 +1,5 @@
 /*
- * @file lab5.h - Lab 5 Virtual Memory Replacement Simulator
+ * @file lab4.h - Lab 4 Virtual Memory Replacement Simulator
  * @author D. Brian Larkins (c) 2019
  */
 
